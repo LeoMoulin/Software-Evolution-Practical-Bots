@@ -1,4 +1,4 @@
-User,Type_Offline,Confidence_Offline,Events
+contributor,rabbit_type,confidence,Events
 000lbh,Unknown,,1
 01PrathamS,Unknown,,1
 0Z17,Unknown,,1
@@ -1280,7 +1280,7 @@ ghyatzo,Human,0.826,69
 giordano,Human,0.843,300
 git-Adi,Unknown,,1
 gitboy16,Human,0.741,63
-github-actions[bot],Bot,1.0,300
+github-actions[bot],Bot,1,300
 gitteeee,Unknown,,1
 gjonit1,Unknown,,1
 gklinich,Unknown,,1
@@ -1716,7 +1716,7 @@ mef51,Unknown,,3
 melkharbili,Unknown,,1
 mellonpizza,Unknown,,1
 meo-s,Unknown,,1
-mergify[bot],Bot,1.0,300
+mergify[bot],Bot,1,300
 merthmagic,Unknown,,1
 mestinso,Human,0.61,10
 mgkuhn,Human,0.677,80
